@@ -1,2 +1,2 @@
 # Javascript-streak
-Complete Javascript
+## learning javascript :)
