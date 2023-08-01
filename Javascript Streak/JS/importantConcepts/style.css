@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.grandparent{
+    width:500px;
+    height:500px;
+    background:lightgreen;
+}
+.parent{
+    width:80%;
+    height:80%;
+    margin:20px auto;
+    background:#1a9d1a;
+
+}
+.child{
+    width:70%;
+    height:70%;
+    margin:30px auto;
+    background:#011c01;;
+}
+.box{
+    border:2px solid black;
+    text-align:center;
+    font-size:1.5rem;
+    color:white;
+
+    
+
+}
